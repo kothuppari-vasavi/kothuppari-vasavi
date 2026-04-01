@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Vasavi 👋
 
-<!--
-**kothuppari-vasavi/kothuppari-vasavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer passionate about AI & Hackathons  
+💻 I love building real-world projects and solving problems
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💻 Skilled in Python, C  
+🚀 Interested in AI, Machine Learning & Hackathons  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🔭 Currently Backend & Web Development  
+- 🌱 Improving problem-solving skills  
+- 🎯 Goal: Build real-world impactful projects  
+
+---
+
+## 💻 Skills
+- Python 🐍  
+- C Programming  
+- Basics of Data Structures  
+- Problem Solving  
+
+---
+
+## Currently Learning
+- Machine Learning
+- Web Development
+
+---
+
+## 🚀 Projects
+- 🔹 Currently working on beginner projects (will update soon)
+
+---
+
+## 📫 Contact
+- Email: kothupparivasavi@gmail.com  
+
+---
+
+✨ *learning today, building tomorrow!*
