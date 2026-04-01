@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently Backend & Web Development  
+- 🔭 Currently learning Backend & Web Development  
 - 🌱 Improving problem-solving skills  
 - 🎯 Goal: Build real-world impactful projects  
 
