@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently learning Backend & Web Development  
+- 🔭 Currently learning Backend, machine learning & Web Development  
 - 🌱 Improving problem-solving skills  
 - 🎯 Goal: Build real-world impactful projects  
 
@@ -25,7 +25,8 @@
 ---
 
 ## Currently Learning
-- Machine Learning
+- Machine learning
+- Backend
 - Web Development
 
 ---
