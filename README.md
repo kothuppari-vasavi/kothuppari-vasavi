@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 Projects
-- 🔹 Currently working on beginner projects (will update soon)
+- 🔹 AI study Assistant - Simple chatbot using python.
 
 ---
 
